@@ -18,4 +18,4 @@ git remote add origin https://github.com/jumbolama/python-winter.git
 git push -u origin main
 
 something changes
-to feat
+to feat good

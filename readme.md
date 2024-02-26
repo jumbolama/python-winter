@@ -16,3 +16,5 @@ git remote add origin https://github.com/jumbolama/python-winter.git
 
 <!-- to SYNC OR UPLODE BRANCH TO GITHU -->
 git push -u origin main
+
+some thing changes
